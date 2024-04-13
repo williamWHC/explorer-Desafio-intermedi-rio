@@ -1,5 +1,9 @@
+![Captura de tela 2024-04-13 120836](https://github.com/williamWHC/explorer-Desafio-intermedi-rio/assets/43853142/e5f39888-4121-4d54-ae34-0980377d3297)
+
 # Sobre o desafio
-Nesse desafio, você deverá recriar uma aplicação, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos nessa aula, entre eles:
+Nesse desafio, foi proposto uma tividade de desenvolver um site simples utilizando HTML e Css.
+
+Codepen.io => https://codepen.io/williamWHC/pen/oNOyPVV 
 
 <br>
 
