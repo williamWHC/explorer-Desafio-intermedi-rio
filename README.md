@@ -3,6 +3,8 @@
 # Sobre o desafio
 Nesse desafio, foi proposto uma tividade de desenvolver um site simples utilizando HTML e Css.
 
+GitPage => https://williamwhc.github.io/explorer-Desafio-intermedi-rio/
+
 Codepen.io => https://codepen.io/williamWHC/pen/oNOyPVV 
 
 <br>
